@@ -1,1 +1,1 @@
-Exercicios das aulas ministradas pelo Jornada do DEV
+Alguns exercicios e aulas enquanto aprendo Javascript
