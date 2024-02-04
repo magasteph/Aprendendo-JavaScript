@@ -1,1 +1,1 @@
-Alguns exercicios e aulas enquanto aprendo Javascript
+Alguns exercicios de aulas durante minha jornada de aprendizado de Javascript
